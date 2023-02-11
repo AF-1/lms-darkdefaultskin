@@ -1,0 +1,8 @@
+DARKDEFAULT_SKIN
+	EN	Dark Default
+
+PLUGIN_DARKDEFAULTSKIN
+	EN	Dark Default
+
+PLUGIN_DARKDEFAULTSKIN_DESC
+	EN	The LMS Default skin, but with a darker color for some UI elements
