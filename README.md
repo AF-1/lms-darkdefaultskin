@@ -2,6 +2,9 @@ Dark Default Skin
 ====
 
 Just like Logitech Media Server's *Default skin*, but some UI elements (esp. backgrounds) have a different (darker) color.<br><br>
+⚠️ Please **clear your browser cache** after switching or updating web skins and **reload** the browser page (multiple times if necessary).
+<br><br><br>
+[⬅️ **Back to the list of all plugins**](https://github.com/AF-1/)
 <br><br><br>
 
 
