@@ -393,3 +393,20 @@ td.sort-asc .x-grid3-hd-inner, td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 	background-color: #262626;
 	background-image:url(html/images/grid3-hrow.gif);
 }
+
+.nowPlayingIcon {
+	background-image:url('html/images/icon_now_playing_normal.gif');
+}
+
+.mouseOver .nowPlayingIcon {
+	background-image:url('html/images/icon_now_playing_selected.gif');
+}
+
+.pagebar {
+	background-color: #5c5c5c !important;
+}
+
+/* settings tabs font color */
+.x-tab-strip span.x-tab-strip-text, .x-tab-strip-active span.x-tab-strip-text, .x-tab-strip-over span.x-tab-strip-text {
+	color: black !important;
+}
