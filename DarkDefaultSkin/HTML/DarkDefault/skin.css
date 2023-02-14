@@ -272,14 +272,14 @@ td.sort-asc .x-grid3-hd-inner, td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 	color-scheme: dark;
 }
 
-html, body {
+html, body, #log-header {
 	color: #dddddd;
 	background-color: #262626;
 }
 
 #playlistPanel, #maincontent { background-color: #262626; }
 
-b, a, form { color: #dddddd; }
+b, a, form, #log-header a { color: #dddddd; }
 
 #filesystembrowser {
 	background-color: #262626;
@@ -413,4 +413,9 @@ td.sort-asc .x-grid3-hd-inner, td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 /* settings tabs font color */
 .x-tab-strip span.x-tab-strip-text, .x-tab-strip-active span.x-tab-strip-text, .x-tab-strip-over span.x-tab-strip-text {
 	color: black !important;
+}
+
+/* log viewer */
+#log-header {
+	background: black;
 }
