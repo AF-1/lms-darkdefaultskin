@@ -168,16 +168,6 @@
 	background-image: url('data:image/gif;base64,R0lGODlhBQA8AMQAAHV1dYuLi8vLy4iIiI6Ojnl5eVJSUrGxsYSEhIWFhYqKip+fn7CwsMrKyrKysnp6ekZGRsbGxsTExJ2dnUhISGNjY0dHR2JiYmVlZcLCwp6enmRkZFNTU0BAQNHR0YyMjCH5BAAAAAAALAAAAAAFADwAAAV7YNdxANJtX8oFBNM83+F5wyfM9e3BsrcSDsEp9RGREggAR0TcdCgYRcAgQhVEkM8AqxVVPgXLRWpodhJKJnGdmjUYhNmsN9PV5Z6ewEFg+/9teIKDhISAh0QiiouMjY6KiElLHWYZEx9TMxpgMxFanZ8eC2ASo1NmaJMhADs=');
 }
 
-/* html/images/icon_now_playing_normal.gif */
-.nowPlayingIcon {
-	background-image: url('data:image/gif;base64,R0lGODlhEQARANUAAGxsbJCQkOTk5HBwcMDAwMvLy+zs7Hx8fG5ubnh4eNPT04GBgdHR0ZSUlJaWlr6+vpOTk2lpaWhoaKioqNTU1HR0dKGhobm5ucTExLCwsHFxcaysrImJiejo6MzMzNDQ0LOzs8bGxubm5tbW1nZ2dmZmZu7u7gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAARABEAAAZzQJNwSDQZFBcLZ1EUCjaNQ2k6JTVNI6q2ZG1mp4nAhADqFrOFDjFkJmZFRfb1HW8P6Wu7ED+Ue0tweXOAQgoOGgB6WIQYElQARBQBCFNwFVoHQx+UVAIiWgAFQwtaAwYmGREAAQxECVoEV0QPJAMQHrImQQA7');
-}
-
-/* html/images/icon_now_playing_selected.gif */
-.mouseOver .nowPlayingIcon {
-	background-image: url('data:image/gif;base64,R0lGODlhEQARANUAAPr6+uDg4K2trevr67Ozs5qamvj4+PLy8u7u7qCgoLy8vPn5+cHBwf39/crKyp6enrCwsN3d3c7OzsXFxa+vr9vb29PT0/7+/qysrPT09Nzc3LKyssjIyLi4uL29vff39+Xl5be3t5+fn6urq/Pz8////5mZmQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAARABEAAAZzQJNwSDQVBAwLaFAUJhwaRGk6JTVNI6q2ZG1mp4eARDHpFrOEBzFkJmZFRfb1HW8P6Wu7ED+Ue0tweXOAQgIVHwB6WIQdF1QARBgBC1NwGVoIQxCUVAkiWgAEQwNaBgUmHA0AARREB1oKV0QeJAYRG7ImQQA7');
-}
-
 /* html/images/icon_nowplaying_collapsed.gif */
 #collapsedPlayerPanel .icon {
 	background-image: url('data:image/gif;base64,R0lGODlhCgAQAMQZADMzM5ycnLKysqKiopOTk05OTq6urqurq0VFRV1dXWRkZFpaWouLi6WlpVVVVXNzc0ZGRkNDQ2NjY7GxsUxMTJ+fn1tbW5mZmZ2dnf///wAAAAAAAAAAAAAAAAAAAAAAACH5BAEAABkALAAAAAAKABAAAAU1YCaOZGmeJpI8zFAegnAY5WBFQFAGQK+TPN8OoMDQRBLCoBBriBaxCuRCKIgckwAFxe16TyEAOw==');
@@ -248,21 +238,6 @@
 	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAtCAYAAADYxvnjAAAABGdBTUEAALGPC/xhBQAAAZxpQ0NQSUNDIFByb2ZpbGUAAHiclZG/SxthGMc/7wUJFZvFs0pBOFBshrSEZEmhKOYGK3ZIg8UknS53Zwycl5e71/TH3slFcJEiqC04iXQqHfMHZBNKh1JwcxQEF5Hr8LZkUcQHHvh8v/Dw/AKj50gZGMB6qKLqQtmq1RtW+hdpUgDguLGcr1RecWtc/kQAnDx1pAw+brx9M9XvPjjbM+zxzbmd2+sAGIlq9QYIEzBbmrOA2dT8AjDfKalAVADTXXM8EB6Qi5arNogtINPSvA9kmpq/AZmu21IgekA+9NohiHOg5PmxC0YWUK6MFBi7wHSt3rD0aGoJZich1R94jRiODmF8ZuBlJ2BsBX4UB97FawQgHvXj1WIBADFShqE/SXIxA+ltuN5KkqsvSXL9FVK/oRe6G1H3312EUYS7tN5Na/0D0H1vZr0/AHk4eAkrw7D0CT6fwpNjGP0OlYew/ByjWPif+lYAPLadoN2MHOV7VnWhbNmdoBPF0nH9Ox5931D+ewVgd+SHqN1aU9a8lIGfsxZD91nOKuTzJf4Cnbxx+BXuSQkAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKaSURBVFiF7Zi9TuswHEdPXBcEC0MKAw+AWCI2vkbEwAMg8YBI7DwFEhJZMrAx0gHKRkxrJ7nDvY6SfugGOyQMPZJVCf+NTx3L/cUBQBzHxXg8pgm7u7scHx8HjYpbJLCSl5eXFEVRa3meL7THx0fCMOT09LRTWTkej7m4uCDLsgXBLMvIsow8zzHGkOc5URSRJEmXjgAIAGNMKWWMQWvN7e0tOzs7fH19kaYpSimm0ynT6bRzSQBpRYHaKlqUUmitKYqiF0GLBEoRK2rF4a9onue9CVpKUbsvjTE10dls1ptclZpolmVordFalwV9P3JLuUft3tRa11ZUCNGbXBUJ1M5OACllWbCxsdGP2RwSIAgCgiBACLEg9qtEpZS1VayytbXVqdAqJMDm5uZCx/X1NW9vb0v7+kCGYUgcx5ydnTUa8PDwwGAw+GGtRYJ/kxcfHx+NBgwGA66urrpPTz6DX15eitfX10a1e3t7HBwcOM/nPNBKnpyclH+zx9uyz6enJ0ajEYeHh05zOp/mVnI+w1ajYlEUZXY4Ojri/f3ddTp3UaCUqba7uzuklBhjUErx+fmJUgqllM9ULD88G1LNAdVfNoA0TVsNNK2IWslqRkjTtJZrffEWtfFwPnW1/SbgJaq1rr2+/GQ8/DHRtuOh96O3jx9gOByWfW1nBC9RGw+Xpa9fJTocDmurWGV7e9vnXy/gLTrPzc0Ns9ls5RdwxXnHj0Yj4jhGCNGo2VpXvNLT8/NzMZlMGtUKITg/P+8+PfngcnvYuaiVjKKoUX2SJIRh6JeeXPiOJEAURUwmk+5FV3F/f8/+/v7K/l8j+j/Wom2zFm2btWjbrEW/i709XIVXHnUhDEOSJFl5ezj/ZmBvD3tJTy63h38AP7jdP7aQdtwAAAAASUVORK5CYII=');
 }
 
-/* html/images/slim-ext/grid3-hrow-over.gif */
-td.x-grid3-hd-over .x-grid3-hd-inner, td.sort-desc .x-grid3-hd-inner,
-td.sort-asc .x-grid3-hd-inner, td.x-grid3-hd-menu-open .x-grid3-hd-inner {
-	background-image: url('data:image/gif;base64,R0lGODlhAgAWAJEAAMfHx+bm5vLy8gAAACH5BAQKAAAALAAAAAACABYAAAIJlI8pwe0PHwAFADs=');
-}
-
-/* html/images/slim-ext/sort_asc.gif */
-.sort-asc .x-grid3-sort-icon {
-	background-image: url('data:image/gif;base64,R0lGODlhDQAFAJEAAAAAAIuLi+zs7AAAACH5BAkKAAMALAAAAAANAAUAAAINnBenGr3c3It0iYuxKgA7');
-}
-
-/* html/images/slim-ext/sort_desc.gif */
-.sort-desc .x-grid3-sort-icon {
-	background-image: url('data:image/gif;base64,R0lGODlhDQAFAJEAAAAAAIuLi+zs7AAAACH5BAkKAAMALAAAAAANAAUAAAIPVI4hw2y5WntKWhOtzLYAADs=');
-}
 
 /***************************************************************/
 /********************** dark default skin **********************/
