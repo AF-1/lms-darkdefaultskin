@@ -394,3 +394,77 @@ td.sort-asc .x-grid3-hd-inner, td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 #log-header {
 	background: black;
 }
+
+/* filebrowser */
+
+#filesystembrowser .x-panel-body {
+	background-color: #2e2e2e;
+}
+
+.x-tree-node {
+	color: #fbfbfe;
+	background-color: #2e2e2e;
+}
+
+.x-tree-node a, .x-dd-drag-ghost a{
+	color:#fbfbfe;
+}
+
+.x-tree-node a span, .x-dd-drag-ghost a span{
+	color:#fbfbfe;
+}
+
+.x-tree-node .x-tree-selected {
+	background-color: #666666;
+}
+
+.x-tree-node .x-tree-node-over {
+	background-color: #666666;
+}
+
+/* drop down menu */
+.x-menu {
+	background-image: url(html/images/slim-ext/menu.gif);
+	border-color: #2e2e2e;
+}
+
+.x-menu-item-text {
+	color: #dddddd;
+}
+
+.x-menu-item-active .x-menu-item-text {
+	color: #494949;
+}
+
+/* input checkbox - background of checked boxes */
+input[type="checkbox"] {
+	accent-color: #8b8b8b;
+}
+
+/* tooltip */
+
+.x-tip {
+	outline: 1px solid #656565;
+	border-radius: 5px;
+}
+
+.x-tip, .x-tip-bwrap {
+	background-color: #404040;
+}
+.x-tip-anchor {
+	background-image:url();
+	background-color: #404040;
+}
+
+.x-tip .x-tip-tc, .x-tip .x-tip-tl, .x-tip .x-tip-tr, .x-tip .x-tip-bc, .x-tip .x-tip-bl, .x-tip .x-tip-br, .x-tip .x-tip-ml, .x-tip .x-tip-mr {
+	background-image: url();
+	background-color: #404040;
+}
+
+.x-tip .x-tip-header-text {
+	color:#dddddd;
+}
+
+.x-tip .x-tip-body {
+	color:#dddddd;
+}
