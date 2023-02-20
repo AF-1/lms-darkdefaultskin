@@ -10,6 +10,10 @@ If the **log viewer** does not use the dark style(s), please update LMS to the l
 [⬅️ **Back to the list of all plugins**](https://github.com/AF-1/)
 <br><br><br>
 
+## What it is and what it is not
+The only purpose of *Dark Default Skin* is to provide a slightly different/darker version of the *LMS Default skin*. It does and will **not** provide any additional functionality beyond that of the *LMS Default skin*.<br><br>And some UI elements are not modified. Example: I thought about replacing the green gradient of the background with a grey one but I didn't because the divider and the dark scrollbars / sliders (esp. the lower part) are harder to distinguish then.
+<br><br><br>
+
 
 ## Installation
 
