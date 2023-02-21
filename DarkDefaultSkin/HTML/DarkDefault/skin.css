@@ -468,3 +468,8 @@ input[type="checkbox"] {
 .x-tip .x-tip-body {
 	color:#dddddd;
 }
+
+/* x-firm text(area) */
+.x-form-text, textarea.x-form-field {
+	background-color: transparent;
+}
