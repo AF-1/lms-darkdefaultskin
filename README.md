@@ -1,17 +1,19 @@
 Dark Default Skin
 ====
 
-Just like Logitech Media Server's *Default skin*, but some UI elements (esp. backgrounds) have a different (darker) color.<br><br>
+Just like Logitech Media Server's *Default skin*, but some UI elements have darker colors.<br><br>
 ⚠️ Please **clear your browser cache** after switching or updating web skins and **reload** the browser page (multiple times if necessary).<br>
 
-If the **log viewer** does not use the dark style(s), please update LMS to the lastest version of 8.3.1+ or 8.4+.
+If the **log viewer** is not displayed dark, please update LMS to the lastest version of 8.3.1+ or 8.4+.
 
 <br><br><br>
 [⬅️ **Back to the list of all plugins**](https://github.com/AF-1/)
 <br><br><br>
 
 ## What it is and what it is not
-The only purpose of *Dark Default Skin* is to provide a slightly different/darker version of the *LMS Default skin*. It does and will **not** provide any additional functionality beyond that of the *LMS Default skin*.<br><br>And some UI elements are not modified. Example: I thought about replacing the green gradient of the background with a grey one but I didn't because the divider and the dark scrollbars / sliders (esp. the lower part) are harder to distinguish then.
+The only purpose of *Dark Default Skin* is to provide a dark-themed version of the *LMS Default skin* where some UI elements have darker colors.<br>
+It's only about the colors of the UI elements, not about adding or (re)moving them, and definitely not about adding or changing how *LMS Default skin* works. *Dark Default Skin* does and will **not** provide any additional functionality beyond that of the *LMS Default skin*.<br>
+And some UI elements are not modified. *Example:* I thought about replacing the green gradient of the background with a grey one but I didn't because the divider and the dark (browser) scrollbars / sliders (esp. the lower part) are harder to distinguish then.
 <br><br><br>
 
 
