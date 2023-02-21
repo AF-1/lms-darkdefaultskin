@@ -3,13 +3,13 @@
 		<title lang="EN">Dark Default Skin Repo (AF1)</title>
 	</details>
 	<plugins>
-		<plugin name="DarkDefaultSkin" version="0.1.5" minTarget="7.9" maxTarget="*">
+		<plugin name="DarkDefaultSkin" version="0.1.6" minTarget="7.9" maxTarget="*">
 			<title lang="EN">Dark Default Skin</title>
 			<desc lang="EN">The LMS Default skin, but with a darker color for some UI elements (esp. backgrounds)</desc>
-			<url>https://github.com/AF-1/lms-darkdefaultskin/releases/download/0.1.5/lms-darkdefaultskin-0.1.5.zip</url>
+			<url>https://github.com/AF-1/lms-darkdefaultskin/releases/download/0.1.6/lms-darkdefaultskin-0.1.6.zip</url>
 			<creator>AF</creator>
 			<link>https://github.com/AF-1/lms-darkdefaultskin</link>
-			<sha>8fffe55f9308a9c3225638494eb2298b38eb71a3</sha>
+			<sha>70ac4ddb2f1ca771a8f55f16039ba41551fd3b48</sha>
 		</plugin>
 	</plugins>
 </extensions>
