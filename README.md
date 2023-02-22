@@ -17,6 +17,11 @@ And some UI elements are not modified. *Example:* I thought about replacing the 
 <br><br><br>
 
 
+## Screenshots
+<img src="screenshots/dd.gif" width="100%">
+<br><br><br>
+
+
 ## Installation
 
 - Install [manually](https://github.com/AF-1/sobras/wiki/Manual-installation-of-LMS-plugins) or add the repository URL below at the bottom of *LMS* > *Settings* > *Plugins* and click *Apply*:
