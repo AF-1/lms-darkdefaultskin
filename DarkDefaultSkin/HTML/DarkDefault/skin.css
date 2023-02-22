@@ -473,3 +473,8 @@ input[type="checkbox"] {
 .x-form-text, textarea.x-form-field {
 	background-color: transparent;
 }
+
+/* checked radio button color */
+input[type='radio']:checked {
+	accent-color: #dddddd;
+}
