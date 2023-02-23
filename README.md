@@ -12,7 +12,7 @@ If the **log viewer** is not displayed dark, please update LMS to the lastest ve
 
 ## What it is and what it is not
 The only purpose of *Dark Default Skin* is to provide a dark-themed version of the *LMS Default skin* where some UI elements have darker colors.<br>
-It's only about the colors of the UI elements, not about adding or (re)moving them, and definitely not about adding or changing how *LMS Default skin* works. *Dark Default Skin* does and will **not** provide any additional functionality beyond that of the *LMS Default skin*.<br>
+It's only about the **colors** of the UI elements, **not** about adding or (re)moving UI elements, and definitely not about changing how *LMS Default skin* works. *Dark Default Skin* does and will **not** provide any additional functionality beyond that of the *LMS Default skin*.<br>
 And some UI elements are not modified. *Example:* I thought about replacing the green gradient of the background with a grey one but I didn't because the divider and the dark (browser) scrollbars / sliders (esp. the lower part) are harder to distinguish then.
 <br><br><br>
 
