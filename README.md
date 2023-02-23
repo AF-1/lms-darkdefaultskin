@@ -5,8 +5,8 @@ Just like Logitech Media Server's *Default skin*, but some UI elements have dark
 ⚠️ Please **clear your browser cache** after switching or updating web skins and **reload** the browser page (multiple times if necessary).<br>
 
 If the **log viewer** is not displayed dark, please update LMS to the lastest version of 8.3.1+ or 8.4+.
+<br>
 
-<br><br><br>
 [⬅️ **Back to the list of all plugins**](https://github.com/AF-1/)
 <br><br><br>
 
