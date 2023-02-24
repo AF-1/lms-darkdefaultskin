@@ -436,6 +436,10 @@ td.sort-asc .x-grid3-hd-inner, td.x-grid3-hd-menu-open .x-grid3-hd-inner {
 	color: #494949;
 }
 
+.menu-title {
+	color: #fbfbfb;
+}
+
 /* input checkbox - background of checked boxes */
 input[type="checkbox"] {
 	accent-color: #8b8b8b;
