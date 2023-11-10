@@ -482,3 +482,7 @@ input[type="checkbox"] {
 input[type='radio']:checked {
 	accent-color: #dddddd;
 }
+
+.x-grid3-row-selected {
+	background-color: transparent !important;
+}
