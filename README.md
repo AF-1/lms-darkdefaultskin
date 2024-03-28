@@ -1,7 +1,7 @@
 Dark Default Skin
 ====
 
-Just like Logitech Media Server's *Default skin*, but some UI elements have darker colors.<br><br>
+Just like the LMS *Default skin*, but some UI elements have darker colors.<br><br>
 ⚠️ Please **clear your browser cache** after switching or updating web skins and **reload** the browser page (multiple times if necessary).<br>
 
 If the **log viewer** is not displayed dark, please update LMS to the lastest version of 8.3.1+ or 8.4+.
