@@ -17,7 +17,7 @@ And some UI elements are not modified. *Example:* I thought about replacing the 
 <br><br><br>
 
 
-## Screenshots
+## Screenshots[^1]
 <img src="screenshots/dd.gif" width="100%">
 <br><br><br>
 
@@ -36,3 +36,5 @@ And some UI elements are not modified. *Example:* I thought about replacing the 
 
 If you want to report a new issue, please fill out this [**issue report template**](https://github.com/AF-1/lms-darkdefaultskin/issues/new?template=bug_report.md&title=%5BISSUE%5D+).
 <br><br><br>
+
+[^1]: The screenshots might not correspond to the current UI in every detail.
