@@ -10,7 +10,7 @@
 	<icon></icon>
 	<defaultState>enabled</defaultState>
 	<targetApplication>
-		<id>Logitech Media Server</id>
+		<id>Lyrion Music Server</id>
 		<minVersion>7.9</minVersion>
 		<maxVersion>*</maxVersion>
 	</targetApplication>
