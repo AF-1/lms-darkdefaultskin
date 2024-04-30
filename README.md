@@ -23,7 +23,7 @@ It's only about the **colors** of the UI elements, **not** about adding or (re)m
 
 ## Installation
 
-* ***Dark Default Skin** is available from the LMS plugin library: **LMS > Settings > Manage Plugins**.<br>
+* **Dark Default Skin** is available from the LMS plugin library: **LMS > Settings > Manage Plugins**.<br>
 
 * Once the plugin is installed, go to *LMS* > *Settings* > *Interface*, select **Dark Default** and click *Apply*.
 
