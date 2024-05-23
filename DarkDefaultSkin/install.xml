@@ -3,7 +3,7 @@
 	<id>af4433f7-caca-4260-5c61-1cc73cefeb35</id>
 	<name>PLUGIN_DARKDEFAULTSKIN</name>
 	<module>Plugins::DarkDefaultSkin::Plugin</module>
-	<version>1.0.6</version>
+	<version>1.0.7</version>
 	<description>PLUGIN_DARKDEFAULTSKIN_DESC</description>
 	<creator>AF</creator>
 	<homepageURL>https://github.com/AF-1/lms-darkdefaultskin</homepageURL>
