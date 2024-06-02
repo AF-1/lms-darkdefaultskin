@@ -9,6 +9,12 @@ Just like the LMS *Default skin*, but some UI elements have darker colors.<br><b
 <br><br>
 **Use the** &nbsp; <img src="screenshots/menuicon.png" width="30"> &nbsp;**icon** (top right) to **jump directly to a specific section.**
 
+<br><br><br>
+
+## Requirements
+
+- LMS version **>=** **9**
+
 <br><br>
 
 ## What it is and what it is not
