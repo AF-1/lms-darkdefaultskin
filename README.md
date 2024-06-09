@@ -1,4 +1,4 @@
-Dark Default Skin (for LMS version < 9)
+Dark Default Skin (for LMS versions < 9)
 ====
 
 
