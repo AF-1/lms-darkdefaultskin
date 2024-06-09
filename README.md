@@ -1,7 +1,9 @@
-Dark Default Skin (LMS < 9)
+Dark Default Skin (for LMS version < 9)
 ====
 
-Just like the LMS *Default skin*, but some UI elements have darker colors.<br><br>
+
+Just like the LMS *Default skin*, but some UI elements have darker colors.<br>
+For LMS versions >= 9 please take a look at the [**Dark Logic** Skin](https://github.com/AF-1/lms-darklogicskin).<br><br>
 ⚠️ Please **clear your browser cache** after switching or updating web skins and **reload** the browser page (multiple times if necessary).
 <br>
 
