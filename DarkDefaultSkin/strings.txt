@@ -5,4 +5,4 @@ PLUGIN_DARKDEFAULTSKIN
 	EN	Dark Default
 
 PLUGIN_DARKDEFAULTSKIN_DESC
-	EN	Dark-themed version of the LMS Default skin. More information on the GitHub page.
+	EN	Dark-themed version of the LMS Default skin.

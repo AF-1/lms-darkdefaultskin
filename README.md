@@ -1,4 +1,4 @@
-Dark Default Skin
+Dark Default Skin (LMS < 9)
 ====
 
 Just like the LMS *Default skin*, but some UI elements have darker colors.<br><br>
@@ -11,9 +11,10 @@ Just like the LMS *Default skin*, but some UI elements have darker colors.<br><b
 
 <br><br><br>
 
+
 ## Requirements
 
-- LMS version **>=** **9**
+- LMS version **<** 9
 
 <br><br>
 
