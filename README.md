@@ -1,6 +1,6 @@
 Dark Default Skin
 ====
-![Max. LMS Version](https://img.shields.io/badge/MAX._LMS_Version_Required-8.5.x-red)<br>
+![Max. LMS Version](https://img.shields.io/badge/MAX._LMS_Version_Supported-8.5.x-red)<br>
 
 Just like the LMS *Default skin*, but some UI elements have darker colors.<br>
 
@@ -12,8 +12,6 @@ For LMS versions >= 9 please take a look at the [**Dark Logic** Skin](https://gi
 <br>
 
 [⬅️ **Back to the list of all plugins**](https://github.com/AF-1/)
-<br><br>
-**Use the** &nbsp; <img src="screenshots/menuicon.png" width="30"> &nbsp;**icon** (top right) to **jump directly to a specific section.**
 
 <br><br><br>
 
